@@ -6,4 +6,7 @@ PhD in Aerospace Engineering  — fault-tolerant flight control, LPV modelling &
 
 📝 Blog: https://robvionix.com · 📄 Publications: coming soon
 
+www.linkedin.com/in/tianle-ma-robavionix
+
+
 *Interests: morphing-wing UAVs · control allocation · MATLAB/Simulink · embedded systems · self-hosted infrastructure*
