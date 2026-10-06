@@ -4,7 +4,7 @@ PhD in Aerospace Engineering  — fault-tolerant flight control, LPV modelling &
 
 🛠️ Currently building **Robvionix** — a hardware-in-the-loop teaching platform for fault-tolerant flight control (STM32 + Simulink).
 
-📝 Blog: https://robvionix.com · 📄 Publications: coming soon
+📝 Blog: [https://robvionix.com]· 📄 Publications: coming soon
 
 www.linkedin.com/in/tianle-ma-robavionix
 
